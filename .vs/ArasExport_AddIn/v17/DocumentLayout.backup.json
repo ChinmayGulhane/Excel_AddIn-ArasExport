@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ArasExcel\\ArasExport_AddIn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9994DCD-B9A4-4DFD-B79C-2842955FF3B7}|ArasExport_AddIn\\ArasExport_AddIn.csproj|e:\\arasexcel\\arasexport_addin\\arasexport_addin\\ribbon1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9994DCD-B9A4-4DFD-B79C-2842955FF3B7}|ArasExport_AddIn\\ArasExport_AddIn.csproj|solutionrelative:arasexport_addin\\ribbon1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9994DCD-B9A4-4DFD-B79C-2842955FF3B7}|ArasExport_AddIn\\ArasExport_AddIn.csproj|e:\\arasexcel\\arasexport_addin\\arasexport_addin\\thisaddin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9994DCD-B9A4-4DFD-B79C-2842955FF3B7}|ArasExport_AddIn\\ArasExport_AddIn.csproj|solutionrelative:arasexport_addin\\thisaddin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9994DCD-B9A4-4DFD-B79C-2842955FF3B7}|ArasExport_AddIn\\ArasExport_AddIn.csproj|e:\\arasexcel\\arasexport_addin\\arasexport_addin\\ribbon1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9994DCD-B9A4-4DFD-B79C-2842955FF3B7}|ArasExport_AddIn\\ArasExport_AddIn.csproj|solutionrelative:arasexport_addin\\ribbon1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9994DCD-B9A4-4DFD-B79C-2842955FF3B7}|ArasExport_AddIn\\ArasExport_AddIn.csproj|e:\\arasexcel\\arasexport_addin\\arasexport_addin\\ribbon1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9994DCD-B9A4-4DFD-B79C-2842955FF3B7}|ArasExport_AddIn\\ArasExport_AddIn.csproj|solutionrelative:arasexport_addin\\ribbon1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9994DCD-B9A4-4DFD-B79C-2842955FF3B7}|ArasExport_AddIn\\ArasExport_AddIn.csproj|e:\\arasexcel\\arasexport_addin\\arasexport_addin\\packageelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9994DCD-B9A4-4DFD-B79C-2842955FF3B7}|ArasExport_AddIn\\ArasExport_AddIn.csproj|solutionrelative:arasexport_addin\\packageelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PackageElement.cs",
+              "DocumentMoniker": "E:\\ArasExcel\\ArasExport_AddIn\\ArasExport_AddIn\\PackageElement.cs",
+              "RelativeDocumentMoniker": "ArasExport_AddIn\\PackageElement.cs",
+              "ToolTip": "E:\\ArasExcel\\ArasExport_AddIn\\ArasExport_AddIn\\PackageElement.cs",
+              "RelativeToolTip": "ArasExport_AddIn\\PackageElement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:33:00.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ribbon1.cs",
+              "DocumentMoniker": "E:\\ArasExcel\\ArasExport_AddIn\\ArasExport_AddIn\\Ribbon1.cs",
+              "RelativeDocumentMoniker": "ArasExport_AddIn\\Ribbon1.cs",
+              "ToolTip": "E:\\ArasExcel\\ArasExport_AddIn\\ArasExport_AddIn\\Ribbon1.cs",
+              "RelativeToolTip": "ArasExport_AddIn\\Ribbon1.cs",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAIwAwBAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:26:50.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ribbon1.Designer.cs",
+              "DocumentMoniker": "E:\\ArasExcel\\ArasExport_AddIn\\ArasExport_AddIn\\Ribbon1.Designer.cs",
+              "RelativeDocumentMoniker": "ArasExport_AddIn\\Ribbon1.Designer.cs",
+              "ToolTip": "E:\\ArasExcel\\ArasExport_AddIn\\ArasExport_AddIn\\Ribbon1.Designer.cs",
+              "RelativeToolTip": "ArasExport_AddIn\\Ribbon1.Designer.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAwwHMAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:44:51.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ribbon1.cs [Design]",
+              "DocumentMoniker": "E:\\ArasExcel\\ArasExport_AddIn\\ArasExport_AddIn\\Ribbon1.cs",
+              "RelativeDocumentMoniker": "ArasExport_AddIn\\Ribbon1.cs",
+              "ToolTip": "E:\\ArasExcel\\ArasExport_AddIn\\ArasExport_AddIn\\Ribbon1.cs [Design]",
+              "RelativeToolTip": "ArasExport_AddIn\\Ribbon1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:22:52.649Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThisAddIn.cs",
+              "DocumentMoniker": "E:\\ArasExcel\\ArasExport_AddIn\\ArasExport_AddIn\\ThisAddIn.cs",
+              "RelativeDocumentMoniker": "ArasExport_AddIn\\ThisAddIn.cs",
+              "ToolTip": "E:\\ArasExcel\\ArasExport_AddIn\\ArasExport_AddIn\\ThisAddIn.cs",
+              "RelativeToolTip": "ArasExport_AddIn\\ThisAddIn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:21:58.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
